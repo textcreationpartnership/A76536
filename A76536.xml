@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the plot discovered in Ireland, and rising of the papists there, truly declared by a letter sent from one of the aldermen in Dublin shewing how far they have proceeded in their rebellion, and the townes and castles they have taken. With a proclamation published there for the suppression of the rebells and prevention of further mischiefe. Lately printed at Dublin by command of the Lords Iustices, and the rest of his Majesties privy counsell. And now reprinted and sold by B. W.</title>
+            <author>W. B., Alderman in Dublin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76536</idno>
+            <idno type="STC">Wing B238</idno>
+            <idno type="STC">Thomason E173_33</idno>
+            <idno type="STC">ESTC R8297</idno>
+            <idno type="EEBO-CITATION">99873269</idno>
+            <idno type="PROQUEST">99873269</idno>
+            <idno type="VID">157069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157069)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the plot discovered in Ireland, and rising of the papists there, truly declared by a letter sent from one of the aldermen in Dublin shewing how far they have proceeded in their rebellion, and the townes and castles they have taken. With a proclamation published there for the suppression of the rebells and prevention of further mischiefe. Lately printed at Dublin by command of the Lords Iustices, and the rest of his Majesties privy counsell. And now reprinted and sold by B. W.</title>
+                  <author>W. B., Alderman in Dublin.</author>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>by the Society of Stationers,</publisher>
+                  <pubPlace>[Imprinted at Dublin :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed : W. B.</note>
+                  <note>Originally published : Dublin, 1641?.</note>
+                  <note>Signatures: A³.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157069:1"/>
+            <pb facs="tcp:157069:1" rendition="simple:additions"/>
+            <p>A true RELATION Of the PLOT DISCOVERED IN IRELAND, AND Riſing of the Papiſts there, tru<g ref="char:EOLhyphen"/>ly declared by a letter ſent from one of the Aldermen in <hi>Dublin:</hi>
+            </p>
+            <p>Shewing how far they have proceeded in their rebellion, and the Townes and Caſtles they have taken.</p>
+            <p>With a Proclamation publiſhed there for the ſuppreſſion of the Rebells and prevention of further miſchiefe.</p>
+            <p>
+               <hi>Lately printed at</hi> Dublin <hi>by command of the Lords Iuſtices, and the reſt of his Maje<g ref="char:EOLhyphen"/>jeſties Privy Counſell.</hi>
+            </p>
+            <p>And now Reprinted and ſold by B.W.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:157069:2"/>
+            <pb facs="tcp:157069:2"/>
+            <head>The true Copy of a Letter written from A Gentleman in <hi>Ireland,</hi> to his friend in <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Could not omit to write unto you, to give you to underſtand of a miracu<g ref="char:EOLhyphen"/>lous deliverance, which the Lord in mercy hath vouchſafed unto the poor Proteſtants in this Kingdome, which you may perceive by the Proclamati<g ref="char:EOLhyphen"/>on encloſed; for I have not time to relate the whole ſtory, or bloudy tragedy, which was intended againſt us: The execution ſhould have beene on the Saturday, which was diſcovered on Friday night, by a man of Sir <hi>Iohn Clotworthy</hi> an Iriſh Knight, but one of your houſe of Commons, and this day being the Sabbath, hath beene the troubleſomeſt day that ever I ſaw all my daies, mixt with joy and ſorrow; joy for our gracious deli<g ref="char:EOLhyphen"/>verance, and much perplexed by feares of our approaching enemies, expecting every houre when the City ſhould bee ſurprized, that for my part and many others, have had but little reſt day and night for theſe two daies paſt, but how
+<pb facs="tcp:157069:3"/> many more it is onely knowne to God, the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the North parts of this Kingdome, taken two Lords Caſtles, and two Townes, one of them of great ſtrength and much munition in it, and as it is verily beleeved, they doe ſtill encreaſe in great multitudes: here is taken a Lord and divers others of note, and others the number of forty which are ſafe in priſon and hope of many more: the Lord is called the Lord <hi>Maguere,</hi> and the Papiſts make it a Reli<g ref="char:EOLhyphen"/>gious warre which they had no cauſe to doe, for they have had a long time as much liberty as wee have had, if not more; but their father the Divell hath ſet them upon this damnable act I hope to their utter ruine in this Kingdome, if the Lord in mercy open our Kings eyes and your Parlia<g ref="char:EOLhyphen"/>ments hearts to take pitty upon us, for no hope of reforma<g ref="char:EOLhyphen"/>tion is to bee had here, for they are tenne for one of us through this Kingdome as is verily beleeved. I have beene ſo employed day and night theſe two daies, that I can hardly write thus much unto you, but deſire your praiers and all good people to God and your Parliament for us, &amp; when more is diſcovered, if the Lord preſerve me with life, you ſhall heare farther from me, in the meane time pray for us all.</p>
+            <closer>
+               <signed>Your loving friend W.B.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:157069:3"/>
+            <head>A Proclamation, By the Lords Iuſtices and Councell.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>W. Parſons.</item>
+                     <item>Io. Borlaſe.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are to make kn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn and publiſh to all His Ma<g ref="char:EOLhyphen"/>ieſties good Subiects in this Kingdom of Ireland, that there is a diſcovery made by us the Lords Iuſti<g ref="char:EOLhyphen"/>ces and Councell, of a moſt diſloyall and deteſtable Con<g ref="char:EOLhyphen"/>ſpiracie intended by ſome e<g ref="char:EOLhyphen"/>vill affected Iriſh Papiſts againſt the lives of Vs, the Lords Iuſtices and Councell, and many others of his Maieſties faithfull Subiects, univerſally throughout this Kingdom, and for the ſeizing not onely of His Maieſties Caſtle of Dublin His Ma<g ref="char:EOLhyphen"/>ieſties principall Fort here but alſo of the other For<g ref="char:EOLhyphen"/>tifications
+<pb facs="tcp:157069:4"/> in the Kingdom: And ſeeing by the great goodneſſe and abundant mercy of Almighty God to His Maieſty and this State and kingdom thoſe wic<g ref="char:EOLhyphen"/>ked Conſpiracies are brought to light, and ſome of the Conſpirators committed to the caſtle of Dublin, by Vs, by his Maieſties Authority ſo as thoſe wicked and damnable Plots are now diſappointed in the chief parts therof, VVe therefore have thought fit hereby not on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to make it publikely known, for the comfort of his Maieſties good and loyall Subiects in all parts of the Kingdom, but alſo hereby to re<g ref="char:EOLhyphen"/>quire them that they doe with all confidence and cheerfulnes betake themſelves to their own defence and ſtand upon their guard, ſo to render the more ſafety to themſelves and all the Kingdome beſides, and that they advertiſe Vs with all poſſible ſpeed of all Occurrents which may concerne the Peace and Safety of the Kingdom; and now to ſhew fully that Faith and Loyalty, which they have alwaies ſhown for the publike ſervices of the Crowne and Kingdom which VVee will value to His Maieſty ac<g ref="char:EOLhyphen"/>cordingly and a ſpecial memory therof w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be retai<g ref="char:EOLhyphen"/>ned for their advantage in due time. And VVe re<g ref="char:EOLhyphen"/>quire that great care be taken that no levies of men be made for forraine ſervice nor any men ſuffered to march upon any ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retence.</p>
+            <closer>
+               <dateline>Given at His Ma<g ref="char:EOLhyphen"/>ieſties Caſtle of Dublin. <date>23. October. 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>R. Dillon.</item>
+                     <item>Ro. Digby.</item>
+                     <item>Ad. Loftus.</item>
+                     <item>J. Temple.</item>
+                     <item>Tho. Ro<g ref="char:EOLhyphen"/>therham.</item>
+                     <item>Fr. Willoughby.</item>
+                     <item>Ja. Ware.</item>
+                     <item>Rob. Meredith.</item>
+                  </list>
+               </signed>
+               <lb/> God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at Dublin by the Society of Stationers, 1641.</p>
+            <pb facs="tcp:157069:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
